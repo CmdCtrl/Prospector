@@ -262,7 +262,7 @@ public class Prospector : MonoBehaviour {
 	}
 
 	void ReloadLevel(){
-		Application.LoadLevel ("_Prospector_Scene_0");
+		Application.LoadLevel ("__Prospector_Scene_0");
 	}
 
 	void ScoreManager(ScoreEvent sEvt){
